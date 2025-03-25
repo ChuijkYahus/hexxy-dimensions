@@ -7,7 +7,7 @@
 
 	"hexdim.entry.dim": "咒法维度",
 	"hexdim.page.dim.1": "在看到$(l:greatwork/the_work)那样的事物$()时。$(br)我便意识到，我能随我心意将其塑形。$(br)我只是需要正确的$(l:patterns/great_spells/dimension#hexdim:dim/create)图案$()。$(br)我似乎还会遇到几种新事故，大多数都是因为维室未准备好、或是已不再存在。$(br2)$(l)我不应大肆破坏周围的墙壁，不然可能会引起$(thing)它们$(nocolor)的注意，结果就是我被扔出维室$()。",
-	"hexdim.page.dim.2": "为操作这种力量，我设计了一种新 iota，叫做$(thing)维室$()。$(br)维室 iota 似乎会给予我对某片超维空间强大的控制力，后页的法术就是创建和操纵这片空间的工具。需注意，除非标明媒质消耗量，就无需消耗媒质。$(br2)为限制维室 iota 的操纵功能（比如说只给朋友部分权限），这种 iota 带有 3 种权限设置（R、W、X），默认均启用。R 权限允许进入维室，W 权限允许删除维室，X 权限允许我将$(l:patterns/great_spells/dimension#hexdim:dim/cast/activate)施法范围转移到维室中$()。$(l:patterns/great_spells/dimension#hexdim:dim/perm/remove)埃弗雷特之权限$()可以禁用这些权限。$(br2)（再明确一下，你其实可以“破坏”墙壁，这么做后你会受到非致命伤害，并返回主世界。）",
+	"hexdim.page.dim.2": "为操作这种力量，我设计了一种新 iota，叫做$(thing)维室$()。$(br)维室 iota 似乎会给予我对某片超维空间强大的控制力，后页的法术就是创建和操纵这片空间的工具。需注意，除非标明媒质消耗量，就无需消耗媒质。$(br2)为限制维室 iota 的操纵功能（比如说只给朋友部分权限），这种 iota 带有 3 种权限设置（R、W、X），默认均启用。R 权限允许进入维室，W 权限允许删除维室，X 权限允许我将$(l:patterns/great_spells/dimension#hexdim:dim/cast/activate)影响范围转移到维室中$()。$(l:patterns/great_spells/dimension#hexdim:dim/perm/remove)埃弗雷特之权限$()可以禁用这些权限。$(br2)（再明确一下，你其实可以“破坏”墙壁，这么做后你会受到非致命伤害，并返回主世界。）",
 
 	"hexcasting.action.hexdim:dim/create": "埃弗雷特之提整",
 	"hexdim.page.dim.create": "按照给定的长宽高制造一个新维室。每方块消耗 6 个充能紫水晶。",
@@ -19,7 +19,7 @@
 
 	"hexcasting.action.hexdim:dim/cast/activate": "埃弗雷特之环境",
 	"hexdim.page.dim.cast.activate": "独属我自己的施法空间！",
-	"hexdim.page.dim.cast.activate.extend": "在咒术剩下的部分里变换我的$(thing)施法环境$()，如同在给定维室中施放一样。起效后$(thing)施法范围/$会囊括整个维室。$(br)尝试对禁用 X 权限的维室施放，或此法术已起效，则会招致$(thing)事故/$。$(br)此外，我的法杖似乎会主动排斥这种效应，除非$(l:patterns/meta#hexcasting:eval)在同一时刻运行所有/$法术。",
+	"hexdim.page.dim.cast.activate.extend": "在咒术剩下的部分里变换我的$(thing)施法环境$()，如同在给定维室中施放一样。起效后$(thing)影响范围/$会囊括整个维室。$(br)尝试对禁用 X 权限的维室施放，或此法术已起效，则会招致$(thing)事故/$。$(br)此外，我的法杖似乎会主动排斥这种效应，除非$(l:patterns/meta#hexcasting:eval)在同一时刻运行所有/$法术。",
 
 	"hexcasting.action.hexdim:dim/cast/deactivate": "埃弗雷特之环境，第二型",
 	"hexdim.page.dim.cast.deactivate": "双维度在手！",
